@@ -73,7 +73,13 @@ make sure to reconnect the CFS to your system and power everything
 up again to make sure that the CFS is being recognized.
 
 ## Yay!
-You are now ready to enjoy the great convenience and productivity of an "Unhinged CFS"
+You are now ready to enjoy the great convenience and productivity of an "Unhinged CFS".
+
+[Example of enjoying this mod in a four-CFS setup](https://www.youtube.com/watch?v=dZaEUIfi5wY)
+<a href="https://www.youtube.com/watch?v=dZaEUIfi5wY">
+<img width="1102" height="635" alt="image" src="https://github.com/user-attachments/assets/fdb167ae-4dc2-4a98-88c2-1acc9acf4e60" />
+</a>
+
 
 ----
 ----
