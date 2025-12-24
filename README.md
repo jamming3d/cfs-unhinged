@@ -39,8 +39,8 @@ even though the pins themselves are made of metal.
 
 #### Two Types of CFS lids
 At this point I need to mention that I have encountered two types of CFS lids.
-* **Type 1** - They have pre-made hole through which you can push the pins out with
-an appropriate sized tool. (see picture above)
+* **Type 1** - They have a pre-made hole through which you can push the pins out with
+an appropriately sized tool. (see picture above)
 * **Type 2** - The pins are inside the hinge with no access from the inside.
 For these types, you will need to drill a very small hole through which to push them out of
 the hinges. This may sound scary to some, but it's really just a very small
