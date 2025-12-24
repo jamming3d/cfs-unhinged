@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=_A2CEYbSsFI \
 **You only need to watch it until timestamp 2:20.** \
 Disconnect the red+black power cord shown at that timestamp so you will have the lid 
 and chamber separated from the shell.
+
 <img width="171" height="206" alt="image" src="https://github.com/user-attachments/assets/21ea83a9-eea5-4c84-b7e2-10e38b25232a" />
 
 ## Removing the Lid
@@ -28,6 +29,7 @@ You will see that the lid is held in place by two pins which are not
 user-accessible from the outside during CFS operation. To make the
 CFS "unhinged" we will need to remove these two pins. (You can always
 put them back on later if you feel that this mod is not for you)
+
 <img width="291" height="267" alt="image" src="https://github.com/user-attachments/assets/d69a449d-ba0c-4d17-95d9-4f461f68dae6" />
 
 To remove the pins we just need to push them out of the hinges,
