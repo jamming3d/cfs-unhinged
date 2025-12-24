@@ -12,8 +12,8 @@ in order to exchange filament spools.
 # Procedure
 
 ## Disassembling the CFS
-The best way to dissasemble the CFS would be to follow Creality's own instructional video for
-replacin the RFID board at: \
+The best way to dissasemble the CFS is to follow Creality's own instructional video for
+replacing the RFID board at: \
 https://www.youtube.com/watch?v=_A2CEYbSsFI \
 **You only need to watch it until timestamp 2:20.** \
 Disconnect the red+black power cord shown at that timestamp so you will have the lid 
